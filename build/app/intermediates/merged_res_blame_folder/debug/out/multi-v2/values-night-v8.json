@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wallet_app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.movies_app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "E:\\Flutter\\Movie_Search_Application\\android\\app\\src\\main\\res\\values-night\\styles.xml",
